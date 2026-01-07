@@ -15,5 +15,27 @@ Artist: Zita Alishbah
 Year: 2026  
 
 ## Images
-/images/series-1  
-001.jpg · 002.jpg · 003.jpg · 004.jpg · 005.jpg · 006.jpg · 007.jpg
+images/series-1
+001.png · 002.png · 003.png · 004.png · 005.png · 006.png · 007.png
+## Gallery — Series 1
+
+### 001 — The Hands That Plant
+![001](images/series-1/001.png)
+
+### 002 — Seeds of Hope
+![002](images/series-1/002.png)
+
+### 003 — Rooted Faith
+![003](images/series-1/003.png)
+
+### 004 — Tended in Silence
+![004](images/series-1/004.png)
+
+### 005 — Hidden Roots
+![005](images/series-1/005.png)
+
+### 006 — Quiet Growth
+![006](images/series-1/006.png)
+
+### 007 — Waiting Season
+![007](images/series-1/007.png)
