@@ -5,7 +5,6 @@ A quiet reflection on patience, soil, and faith.
 ---
 
 ## Series 1 — Gallery
-
 ### 001 — The Hands That Plant
 [![001 — The Hands That Plant](images/series-1/001.png)](images/series-1/001.png)
 
@@ -15,6 +14,7 @@ A quiet reflection on patience, soil, and faith.
 ### 003 — Rooted Faith
 [![003 — Rooted Faith](images/series-1/003.png)](images/series-1/003.png)
 
+![001](images/series-1/001.png)
 ### 004 — Tended in Silence
 [![004 — Tended in Silence](images/series-1/004.png)](images/series-1/004.png)
 
