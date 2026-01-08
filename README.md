@@ -39,3 +39,8 @@ images/series-1
 
 ### 007 — Waiting Season
 ![007](images/series-1/007.png)
+---
+
+## Artist & Credits
+**Artist:** Zita Alishbah  
+**Year:** 2026
